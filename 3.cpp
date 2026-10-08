@@ -11,8 +11,10 @@ int main() {
     john_score = 89;
     printf("Mike的成绩是%d分。\n",mike_score);
     printf("John的成绩是%d分。\n",john_score);
-
-
+    mike_score = 0;
+    john_score = 1;
+    printf("Mike是%d\n",mike_score);
+    printf("John是%d",john_score);
 
     return 0;
 }
