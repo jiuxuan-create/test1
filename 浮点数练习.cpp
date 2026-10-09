@@ -9,10 +9,5 @@ int main(){
     printf("float_2 %.10f\n",float_2);
     printf("double_1:%.10lf\n",double_1);
 
-
-
-
-
-
     return 0 ;
 }
